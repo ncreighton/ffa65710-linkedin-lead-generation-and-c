@@ -1,2 +1,31 @@
-# ffa65710-linkedin-lead-generation-and-c
-An n8n automation workflow designed for sales crm professionals. LinkedIn Lead Generation and CRM Sync N8N Workflow provides a complete solution for lead generation, CRM, and sales pipeline. Features include automated tracking, customizable dashboards, real-time analytics, and seamless integration with existing tools. Built for teams and individual
+# LinkedIn Lead Generation and CRM Sync N8N Workflow
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00weVdeTt3o84pqbzScZb1J)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00weVdeTt3o84pqbzScZb1J)
+- [Buy on Gumroad](https://homebasedigital.gumroad.com/l/otqekgq)
+- [Buy on Whop](https://whop.com/linkedin-lead-generation-and-crm-sync-n8n-workflow)
+
